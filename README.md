@@ -101,9 +101,9 @@
             height="40"
           />
         </a>
-          <a href="https://nextjs.org/" style="background-color:white" target="_blank" rel="noreferrer">
+          <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
             <img
-              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
+              src="https://ui-lib.com/blog/nextjs-boilerplates/"
               alt="nextjs"
               width="50%"
               height="5O%"
