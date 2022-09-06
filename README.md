@@ -12,7 +12,7 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchaplin&theme=tokyonight&layout=compact" alt="mitchaplin" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchaplin&count_private=true&theme=tokyonight&layout=compact" alt="mitchaplin" /></p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mitchaplin&show_icons=true&theme=tokyonight"></a>
