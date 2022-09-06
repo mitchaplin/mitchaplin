@@ -117,8 +117,8 @@
             <img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
               alt="nextjs"
-              width="50%"
-              height="5O%"
+              width="40"
+              height="40"
             />
           </a>
       </p>
