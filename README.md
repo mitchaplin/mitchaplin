@@ -101,16 +101,15 @@
             height="40"
           />
         </a>
-        <span background-color="white">
           <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
             <img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
               alt="nextjs"
+              style="background-color:white"
               width="40"
               height="40"
             />
           </a>
-        </span>
         <a
           href="https://www.atlassian.com/software/jira"
           target="_blank"
