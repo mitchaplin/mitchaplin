@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[https://imgur.com/iby7fcY](https://imgur.com/iby7fcY)" title="source: imgur.com" />
+<img src="https://i.imgur.com/iby7fcY.jpeg" title="source: imgur.com" />
 </p>
 
 <h3 align="center">Hi, i'm Mitch. A Full-Stack Software Engineer. </br>
