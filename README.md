@@ -103,7 +103,7 @@
         </a>
           <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
             <img
-              src="https://ui-lib.com/blog/nextjs-boilerplates/"
+              src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
               alt="nextjs"
               width="50%"
               height="5O%"
