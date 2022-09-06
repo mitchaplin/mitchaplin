@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/iby7fcY.jpeg" title="source: imgur.com" width="250" height="100" />
+<img src="https://i.imgur.com/iby7fcY.jpeg" title="source: imgur.com" width="100%" height="250" />
 </p>
 
 <h3 align="center">Welcome to my GitHub page.</br>
