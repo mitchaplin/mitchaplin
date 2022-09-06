@@ -15,9 +15,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchaplin&count_private=true&theme=tokyonight&layout=compact" alt="mitchaplin" /></p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mitchaplin&show_icons=true&theme=tokyonight"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mitchaplin&count_private=true&show_icons=true&theme=tokyonight"></a>
 </p>
   
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mitchaplin&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j"/></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mitchaplin&count_private=true&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j"/></a>
 </p>
