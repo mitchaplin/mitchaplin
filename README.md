@@ -126,9 +126,6 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mitchaplin&count_private=true&theme=tokyonight&layout=compact" alt="mitchaplin" /></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mitchaplin&count_private=true&show_icons=true&theme=tokyonight"></a>
 </p>
   
