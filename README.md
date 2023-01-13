@@ -108,7 +108,7 @@
           rel="noreferrer"
         >
           <img
-            src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
+            src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg"
             alt="tailwind"
             width="60"
             height="60"
@@ -126,6 +126,9 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mitchaplin&count_private=true&theme=tokyonight&layout=compact" alt="mitchaplin" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mitchaplin&count_private=true&show_icons=true&theme=tokyonight"></a>
 </p>
   
