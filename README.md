@@ -103,20 +103,20 @@
           />
         </a>
         <a
-          href="https://www.atlassian.com/software/jira"
+          href="https://tailwindcss.com/"
           target="_blank"
           rel="noreferrer"
         >
           <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/jira/jira-plain-wordmark.svg"
-            alt="jira"
+            src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg"
+            alt="tailwind"
             width="40"
             height="40"
           />
         </a>
          <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
             <img
-              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
+              src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"
               alt="nextjs"
               width="40"
               height="40"
