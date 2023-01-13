@@ -14,24 +14,24 @@
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react"
-            width="40"
-            height="40"
+            width="60"
+            height="60"
           />
         </a>
         <a href="https://www.clojure.org/" target="_blank" rel="noreferrer">
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/clojure/clojure-original.svg"
             alt="clojure"
-            width="40"
-            height="40"
+            width="60"
+            height="60"
           />
         </a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
           <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
             alt="git"
-            width="40"
-            height="40"
+            width="60"
+            height="60"
           />
         </a>
        <a
@@ -42,16 +42,16 @@
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3"
-            width="40"
-            height="40"
+            width="60"
+            height="60"
           />
         </a>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5"
-            width="40"
-            height="40"
+            width="60"
+            height="60"
           />
         </a>
         <a
@@ -62,32 +62,32 @@
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript"
-            width="40"
-            height="40"
+            width="60"
+            height="60"
           />
         </a>
         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/postgresql/postgresql-original-wordmark.svg"
             alt="postgres"
-            width="40"
-            height="40"
+            width="60"
+            height="60"
           />
         </a>
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
           <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"
             alt="nodejs"
-            width="40"
-            height="40"
+            width="60"
+            height="60"
           />
         </a>
         <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
           <img
             src="https://reactnative.dev/img/header_logo.svg"
             alt="reactnative"
-            width="40"
-            height="40"
+            width="60"
+            height="60"
           />
         </a>
         <a
@@ -98,8 +98,8 @@
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
             alt="typescript"
-            width="40"
-            height="40"
+            width="60"
+            height="60"
           />
         </a>
         <a
@@ -108,18 +108,18 @@
           rel="noreferrer"
         >
           <img
-            src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg"
+            src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
             alt="tailwind"
-            width="40"
-            height="40"
+            width="60"
+            height="60"
           />
         </a>
          <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
             <img
-              src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"
+              src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"
               alt="nextjs"
-              width="40"
-              height="40"
+              width="60"
+              height="60"
             />
           </a>
       </p>
