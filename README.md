@@ -3,11 +3,7 @@
 </p>
 
 <h3 align="center">Hello and welcome to my GitHub page.</br>
-<h6 align="center">
-  <a href="https://mitchaplin.dev/" target="_blank" rel="noreferrer">
-  Check out my portfolio site.
-  </a>
-</h6>
+
 <h6 align="center">My languages and tools:</h6>
       <p align="center">
        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
