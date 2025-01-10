@@ -13,5 +13,5 @@
 </p>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mitchaplin)](https://git.io/streak-stats)
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=mitchaplin&count_private=true&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=mitchaplin"/></a>
 </p>
