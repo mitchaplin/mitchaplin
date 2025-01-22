@@ -12,6 +12,10 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mitchaplin&count_private=true&show_icons=true&theme=tokyonight"></a>
 </p>
 
+
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=mitchaplin&count_private=true&show_icons=true&theme=tokyonight"/></a>
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=mitchaplin&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Streak" style="margin-top: 20px;"/>
+    </a>
 </p>
+  
